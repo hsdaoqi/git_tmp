@@ -11,4 +11,4 @@
 5. 关联远程仓库 origin，将 main 分支推送到 GitHub。
 
 ## 分支实验
-创建 docs/experiment-log 分支，用于编写实验记录。
+创建 hs-log 分支，用于编写实验记录。
